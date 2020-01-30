@@ -1,1 +1,3 @@
 Este es el primer archivo de git
+Ahora le agrego más contenido
+de lineas
