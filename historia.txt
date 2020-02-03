@@ -1,5 +1,2 @@
 Este es el primer archivo de git
-Ahora le agrego más contenido
-de lineas
-Este debería ser un archivo de historia.
-Con mayor contenido sobre la persona
+Hola soy Jaz, y debería comenzar a escribir sobre la clase de ingles.
