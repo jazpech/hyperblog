@@ -2,7 +2,7 @@ Este es el primer archivo de git
 
 Este es un texto escrito por Anita
 
-Expeerimento 1
+Master 1
 
 Hola soy Jaz, y debería comenzar a escribir sobre la clase de ingles.
 
